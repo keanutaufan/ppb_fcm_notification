@@ -47,7 +47,7 @@ flutter pub get
 flutter run
 ```
 
-**4. Replace Firebase credential with yours (optional)
+**4. Replace Firebase credential with yours (optional)**
 
 
 ## How to Use
