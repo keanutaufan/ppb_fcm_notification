@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512704231340",
+    "project_id": "ppb-flutter-c0b3f",
+    "storage_bucket": "ppb-flutter-c0b3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512704231340:android:0df4293a0dc8ccd3b6ec09",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWXVmNAQX4v7HEnBedr9Tzg753izRkrhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
